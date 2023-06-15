@@ -5,9 +5,9 @@ metadata:
   description: Utility example
   annotations:
     github.com/project-slug: chriscdm/test_utility_1
-    tags:
-    - Security
-    - Utility
+  tags:
+    - security
+    - utility
 spec:
   type: other
   lifecycle: experimental

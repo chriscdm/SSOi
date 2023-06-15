@@ -2,10 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test_utility_1
-  description: Example of a utility
+  description: Utility example
   annotations:
     github.com/project-slug: chriscdm/test_utility_1
 spec:
   type: other
   lifecycle: experimental
   owner: utilities
+  tags:
+    - Security
+    - Utility

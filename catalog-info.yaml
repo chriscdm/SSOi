@@ -11,5 +11,5 @@ metadata:
 spec:
   type: other
   lifecycle: production
-  owner: test-user
+  owner: test_user
 

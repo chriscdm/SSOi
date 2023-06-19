@@ -9,7 +9,7 @@ metadata:
     - utility
     - iam
 spec:
-  type: other
+  type: utility
   lifecycle: production
   owner: test_user
   system: examples

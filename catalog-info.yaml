@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Single Sign On - Internal
+  name: SSOi
   description: Provides single-sign-on (SSO) capabilities for both external (via IBM ISAM) and internal applications (via SiteMinder); enables products to authenticate users, issue tokens, manage access to application resources or services, and incorporate global sign-off functionality
   annotations:
     github.com/project-slug: chriscdm/test_utility_1
